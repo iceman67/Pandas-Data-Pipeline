@@ -1,7 +1,0 @@
-
-
-pip3 install --upgrade pandas 
-
->>> import pandas as pd
->>> pd.__version__
-'1.0.1'
